@@ -2,8 +2,6 @@
 
 echo "Hello Word "; 
 
-echo "Olá Hcode"
-
-echo "456";
+echo "Olá Hcode";
 
 ?>
