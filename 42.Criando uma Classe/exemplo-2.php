@@ -6,7 +6,7 @@ class Carro {
     private $motor;
     private $ano;
 
-    public function getModelo() {
+    public function getModelo():string {
 
         return $this->modelo;
 
